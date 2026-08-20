@@ -10,19 +10,19 @@
 
 ---
 
-##  about
+## about
 
 hi, i'm **mqclass** — a developer learning and building things step by step.
 
--  **currently**: developing **Minecraft plugins** on Java
--  **learning**: **DevOps** & **MLOps** pipelines, CI/CD, containerization
--  **exploring**: **Python backend** (FastAPI / Django)
--  **scene**: Minecraft **SS/PC verification** & system tooling
--  **reach me**: open an issue or discussion in any of my repos
+- **currently**: developing **Minecraft plugins** on Java
+- **learning**: **DevOps** & **MLOps** pipelines, CI/CD, containerization
+- **exploring**: **Python backend** (FastAPI / Django)
+- **scene**: Minecraft **SS/PC verification** & system tooling
+- **reach me**: open an issue or discussion in any of my repos
 
 ---
 
-##  tech stack
+## tech stack
 
 **languages**
 &lt;p&gt;
@@ -54,9 +54,9 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
 
 ---
 
-##  featured projects
+## featured projects
 
-###  BAMDelKeys
+### BAMDelKeys
 **Windows BAM Registry Scanner** — *Public*
 
 Scans the Windows Background Activity Monitor (BAM) registry and outputs a list of all executed `.exe` files with cheat analysis.
@@ -69,7 +69,7 @@ Scans the Windows Background Activity Monitor (BAM) registry and outputs a list 
 
 ---
 
-##  activity
+## activity
 
 &lt;p align="center"&gt;
   &lt;img src="https://github-readme-stats.vercel.app/api?username=mqclass&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=a855f7&text_color=c084fc" height="170" /&gt;
@@ -86,7 +86,6 @@ Scans the Windows Background Activity Monitor (BAM) registry and outputs a list 
 &lt;p align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=120&section=footer" /&gt;
 &lt;/p&gt;
-
 <!--
 **mqclass/mqclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
