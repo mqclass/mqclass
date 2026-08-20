@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hi%2C+im+mqclass;java+plugin+developer;learning+devops+%26+mlops;python+backend+enthusiast;minecraft+ss%2Fpc+verification" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mqclass/mqclass/main/assets/nerv-white.png" width="180" alt="NERV" />
-</p>
-
 ---
 
 ## about
@@ -23,10 +19,6 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
 - **exploring**: **Python backend** (FastAPI / Django)
 - **scene**: Minecraft **SS/PC verification** & system tooling
 - **reach me**: open an issue or discussion in any of my repos
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mqclass/mqclass/main/assets/eva01-purple.jpg" width="400" alt="EVA-01" />
-</p>
 
 ---
 
@@ -42,7 +34,6 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
 <p>
   <img src="https://img.shields.io/badge/Spigot/Paper-000000?style=for-the-badge&logoColor=a855f7" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=a855f7" />
 </p>
 
 **devops & tools**
@@ -86,10 +77,6 @@ Scans the Windows Background Activity Monitor (BAM) registry and outputs a list 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqclass&theme=midnight-purple&hide_border=true&background=00000000&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mqclass/mqclass/main/assets/asuka-bw.jpg" width="500" alt="Asuka" />
 </p>
 
 ---
