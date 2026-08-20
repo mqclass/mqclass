@@ -1,11 +1,14 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=280&section=header&text=mqclass&fontSize=70&fontColor=a855f7&fontAlignY=40&desc=java%20plugin%20dev%20%7C%20devops%20%26%20mlops%20learner&descSize=16&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=220&section=header&text=mqclass&fontSize=70&fontColor=a855f7&animation=fadeIn" />
 </p>
 
-<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hi%2C+im+mqclass;java+plugin+developer;learning+devops+%26+mlops;python+backend+enthusiast;minecraft+ss%2Fpc+verification" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hi%2C+im+mqclass;java+plugin+developer;learning+devops+and+mlops;python+backend+enthusiast;minecraft+ss+pc+verification" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NERV-000000?style=for-the-badge&logoColor=a855f7&labelColor=000000" />
+  <img src="https://img.shields.io/badge/EVA--01-000000?style=for-the-badge&logoColor=a855f7&labelColor=000000" />
 </p>
 
 ---
@@ -15,9 +18,9 @@
 hi, i'm **mqclass** — a developer learning and building things step by step.
 
 - **currently**: developing **Minecraft plugins** on Java
-- **learning**: **DevOps** & **MLOps** pipelines, CI/CD, containerization
+- **learning**: **DevOps** and **MLOps** pipelines, CI/CD, containerization
 - **exploring**: **Python backend** (FastAPI / Django)
-- **scene**: Minecraft **SS/PC verification** & system tooling
+- **scene**: Minecraft **SS/PC verification** and system tooling
 - **reach me**: open an issue or discussion in any of my repos
 
 ---
@@ -30,13 +33,18 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=a855f7" />
 </p>
 
-**plugin dev & backend**
+**plugin dev**
 <p>
-  <img src="https://img.shields.io/badge/Spigot/Paper-000000?style=for-the-badge&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Spigot-000000?style=for-the-badge&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Paper-000000?style=for-the-badge&logoColor=a855f7" />
+</p>
+
+**backend**
+<p>
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=a855f7" />
 </p>
 
-**devops & tools**
+**devops**
 <p>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=a855f7" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=a855f7" />
@@ -85,10 +93,10 @@ Scans the Windows Background Activity Monitor (BAM) registry and outputs a list 
   <i>"God's in his heaven, all's right with the world."</i>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=120&section=footer" />
 </p>
+
 
 <!--
 **mqclass/mqclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
