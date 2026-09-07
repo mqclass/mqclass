@@ -54,20 +54,6 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=a855f7" />
 </p>
 
----
-
-## featured projects
-
-### BAMDelKeys
-**Windows BAM Registry Scanner** — *Public*
-
-Scans the Windows Background Activity Monitor (BAM) registry and outputs a list of all executed `.exe` files with cheat analysis.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=shield&logoColor=a855f7" />
-</p>
 
 ---
 
