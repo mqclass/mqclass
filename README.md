@@ -15,7 +15,6 @@ hi, i'm **mqclass** — a developer learning and building things step by step.
 - **currently**: developing **Minecraft plugins** on Java
 - **learning**: **DevOps** and **MLOps** pipelines, CI/CD, containerization
 - **exploring**: **Python backend** (FastAPI / Django)
-- **scene**: Minecraft **SS/PC verification** and system tooling
 - **reach me**: open an issue or discussion in any of my repos
 
 ---
