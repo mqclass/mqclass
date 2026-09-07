@@ -74,11 +74,6 @@ Scans the Windows Background Activity Monitor (BAM) registry and outputs a list 
 ## activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mqclass&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=a855f7&text_color=c084fc" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqclass&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c084fc" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqclass&theme=midnight-purple&hide_border=true&background=00000000&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 </p>
 
