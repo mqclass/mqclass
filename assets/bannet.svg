@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="mqclass — Material You banner">
+  <defs>
+    <clipPath id="round">
+      <rect width="1200" height="400" rx="48"/>
+    </clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141218"/>
+      <stop offset="1" stop-color="#1D1A22"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+
+    <!-- Material You blobs, slow float. GitHub renders SMIL in <img> SVGs. -->
+    <g opacity="0.9">
+      <circle cx="980" cy="90" r="150" fill="#6750A4">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 26; 0 0" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="280" r="110" fill="#D0BCFF" opacity="0.75">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -24 0; 0 0" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="180" cy="330" r="130" fill="#EFB8C8" opacity="0.55">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 20 -18; 0 0" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="330" cy="70" r="70" fill="#CCC2DC" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 18; 0 0" dur="9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Soft surface card -->
+    <rect x="64" y="56" width="720" height="288" rx="36" fill="#211F26" opacity="0.92"/>
+
+    <text x="108" y="148" font-family="Segoe UI, system-ui, sans-serif" font-size="64" font-weight="700" fill="#E6E0E9">Привет, я mqclass</text>
+    <text x="108" y="192" font-family="Segoe UI, system-ui, sans-serif" font-size="26" fill="#CAC4D0">Делаю софт, в котором</text>
+    <text x="108" y="222" font-family="Segoe UI, system-ui, sans-serif" font-size="26" fill="#CAC4D0">разберётся обычный человек</text>
+    <text x="108" y="252" font-family="Segoe UI, system-ui, sans-serif" font-size="26" fill="#CAC4D0">Сейчас: zapret2-gui и Python backend</text>
+
+    <!-- Pills -->
+    <g font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="600">
+      <g>
+        <rect x="108" y="272" width="118" height="40" rx="20" fill="#4F378B"/>
+        <text x="167" y="299" text-anchor="middle" fill="#EADDFF">zapret2-gui</text>
+      </g>
+      <g>
+        <rect x="238" y="272" width="96" height="40" rx="20" fill="#332D41"/>
+        <text x="286" y="299" text-anchor="middle" fill="#E6E0E9">Rust</text>
+      </g>
+      <g>
+        <rect x="346" y="272" width="96" height="40" rx="20" fill="#332D41"/>
+        <text x="394" y="299" text-anchor="middle" fill="#E6E0E9">Tauri</text>
+      </g>
+      <g>
+        <rect x="454" y="272" width="104" height="40" rx="20" fill="#332D41"/>
+        <text x="506" y="299" text-anchor="middle" fill="#E6E0E9">Python</text>
+      </g>
+    </g>
+  </g>
+</svg>
