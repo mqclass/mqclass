@@ -8,21 +8,27 @@
 
 ---
 
-## about
+## ✨ About
 
-hi, i'm **mqclass** — a developer learning and building things step by step.
+hi, i'm **mqclass** — a developer learning and building things step by step, from Minecraft plugins to Windows desktop apps.
 
-- **currently**: [zapret2-gui](https://github.com/mqclass/zapret2-gui) — a Windows GUI and supervisor for zapret2, plus **Minecraft plugins** on Java
-- **learning**: **DevOps** and **MLOps** pipelines, CI/CD, containerization
-- **exploring**: **Python backend** (FastAPI / Django)
-- **principle**: software should be understandable by an ordinary person, not just by developers
-- **reach me**: open an issue or discussion in any of my repos
+| 🚀 Currently | 🎯 Learning | 🔭 Exploring |
+| :---: | :---: | :---: |
+| **zapret2-gui** + **Minecraft plugins** | **DevOps** and **MLOps**, CI/CD, containerization | **Python backend** (FastAPI / Django) |
+
+> Software should be understandable by an ordinary person, not just by developers.
+
+📬 **Reach me:** open an issue or discussion in any of my repos.
 
 ---
 
-## featured project
+## 🚀 Featured Project
 
-### [zapret2-gui](https://github.com/mqclass/zapret2-gui)
+<p align="center">
+  <a href="https://github.com/mqclass/zapret2-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mqclass&repo=zapret2-gui&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9&icon_color=CCC2DC" alt="zapret2-gui repo card" />
+  </a>
+</p>
 
 Windows app for DPI bypass in one click, no command line or `.bat` files needed. Tauri v2 + Rust + React + TypeScript + Tailwind.
 
@@ -32,48 +38,19 @@ Windows app for DPI bypass in one click, no command line or `.bat` files needed.
 
 ---
 
-## tech stack
+## 🛠️ Tech Stack
 
-**languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D0BCFF" />
-</p>
-
-**plugin dev**
-<p>
-  <img src="https://img.shields.io/badge/Spigot-000000?style=for-the-badge&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Paper-000000?style=for-the-badge&logoColor=D0BCFF" />
-</p>
-
-**backend and desktop**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=D0BCFF" />
-</p>
-
-**devops**
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=D0BCFF" />
-</p>
-
-**databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D0BCFF" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=D0BCFF" />
-</p>
+| Category | Stack |
+| :--- | :--- |
+| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D0BCFF) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D0BCFF) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=D0BCFF) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D0BCFF) |
+| 🧩 **Plugin Dev** | ![Spigot](https://img.shields.io/badge/Spigot-000000?style=for-the-badge&logoColor=D0BCFF) ![Paper](https://img.shields.io/badge/Paper-000000?style=for-the-badge&logoColor=D0BCFF) |
+| ⚙️ **Backend & Desktop** | ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=D0BCFF) ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=D0BCFF) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D0BCFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=D0BCFF) |
+| 🐳 **DevOps** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D0BCFF) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D0BCFF) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D0BCFF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=D0BCFF) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D0BCFF) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D0BCFF) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=D0BCFF) |
 
 ---
 
-## activity
+## 📊 Activity
 
 <p align="center">
 
@@ -88,4 +65,8 @@ Windows app for DPI bypass in one click, no command line or `.bat` files needed.
 
 <p align="center">
   <i>"God's in his heaven, all's right with the world."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=120&section=footer" alt="Footer wave" />
 </p>
