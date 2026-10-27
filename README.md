@@ -1,89 +1,34 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=220&section=header&text=mqclass&fontSize=70&fontColor=a855f7&animation=fadeIn" />
-</p>
+<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Привет, я mqclass — Material You баннер" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D0BCFF&center=true&vCenter=true&width=600&lines=Windows+%2B+Rust+%2B+Tauri;React+%2B+TypeScript;Python+backend+%E2%80%94+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F" alt="Typing animation" />
+</div>
+Сейчас
+🛠️ zapret2-gui — Windows GUI и супервизор для zapret2: обход блокировок YouTube и Discord в один клик, без командной строки.
+🐍 Изучаю Python и Python backend — с нуля, по шагам, в VsCodium.
+🎯 Принцип: если в программе не разберётся обычный человек, значит, её надо переделать, а не объяснять.
+Главный проект
+zapret2-gui
+Windows-приложение для обхода DPI-блокировок. Tauri v2 + Rust + React + TypeScript + Tailwind.
+Включение обхода в один клик, без .bat и ручных настроек
+Стратегии для YouTube, Discord и сайтов, автоподбор рабочей стратегии
+Диагностика сети, DNS, сплит-туннелинг, автообновление списков
+Работает под живым DPI, а не только на бумаге
+Стек
+<div align="center">
+!Rust
+!Tauri
+!React
+!TypeScript
+!Tailwind CSS
+!Python
+!Windows
+</div>
+Статистика
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mqclass&show_icons=true&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9&icon_color=CCC2DC" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqclass&layout=compact&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9" alt="Top languages" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hi%2C+im+mqclass;java+plugin+developer;learning+devops+and+mlops;python+backend+enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-## about
-
-hi, i'm **mqclass** — a developer learning and building things step by step.
-
-- **currently**: developing **Minecraft plugins** on Java
-- **learning**: **DevOps** and **MLOps** pipelines, CI/CD, containerization
-- **exploring**: **Python backend** (FastAPI / Django)
-- **reach me**: open an issue or discussion in any of my repos
-
----
-
-## tech stack
-
-**languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=a855f7" />
-</p>
-
-**plugin dev**
-<p>
-  <img src="https://img.shields.io/badge/Spigot-000000?style=for-the-badge&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Paper-000000?style=for-the-badge&logoColor=a855f7" />
-</p>
-
-**backend**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=a855f7" />
-</p>
-
-**devops**
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=a855f7" />
-</p>
-
-**databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=a855f7" />
-</p>
-
-
----
-
-## activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqclass&theme=midnight-purple&hide_border=true&background=00000000&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
-</p>
-
----
-
-<p align="center">
-  <i>"God's in his heaven, all's right with the world."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c1d95,100:000000&height=120&section=footer" />
-</p>
-
-
-<!--
-**mqclass/mqclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub>Material You: тёмная поверхность, мягкие тональные цвета, большие радиусы, один акцент.</sub>
+</div>
