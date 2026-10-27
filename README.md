@@ -63,20 +63,14 @@
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mqclass&show_icons=true&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9&icon_color=CCC2DC&count_private=true&cache_seconds=86400" alt="mqclass's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqclass&hide_border=true&background=00000000&stroke=D0BCFF&ring=D0BCFF&fire=D0BCFF&currStreakNum=E6E0E9&currStreakLabel=CCC2DC&sideNums=E6E0E9&sideLabels=CCC2DC&dates=E6E0E9&cache_seconds=86400" alt="mqclass's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqclass&hide_border=true&background=141218&stroke=D0BCFF&ring=D0BCFF&fire=D0BCFF&currStreakNum=E6E0E9&currStreakLabel=CCC2DC&sideNums=E6E0E9&sideLabels=CCC2DC&dates=E6E0E9&cache_seconds=86400" alt="mqclass's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqclass&layout=compact&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mqclass&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="mqclass's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mqclass&bg_color=141218&color=E6E0E9&line=D0BCFF&point=CCC2DC&area=true&hide_border=true" alt="mqclass's Activity Graph" />
 </p>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
