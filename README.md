@@ -3,11 +3,6 @@
 <p><sub>AN EDITORIAL PROFILE · MQCLASS</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&label=mqclass&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&label=mqclass&mode=dark" width="100%" alt="mqclass cinematic profile scene" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&label=mqclass&v=cinematic-hero-wordmark-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&label=mqclass&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="mqclass animated ASCII name" />
 </picture>
@@ -54,10 +49,11 @@
 
 <h2>Featured reel</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&repos=mqclass%2Fzapret2-gui&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=mqclass&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248178260%3Fu%3D0f82fd619ca98a1c4c5f6030082aaa3b05969984%26v%3D4&repos=mqclass%2Fzapret2-gui&v=cinematic-projects-2&mode=dark" width="100%" alt="mqclass cinematic project reel" />
-</picture>
+<p align="center">
+  <a href="https://github.com/mqclass/zapret2-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mqclass&repo=zapret2-gui&hide_border=true&bg_color=141218&title_color=D0BCFF&text_color=E6E0E9&icon_color=CCC2DC" alt="zapret2-gui repo card" />
+  </a>
+</p>
 
 <table width="100%">
 <tr>
